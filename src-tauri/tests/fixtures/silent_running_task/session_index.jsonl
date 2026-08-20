@@ -1,0 +1,2 @@
+{"timestamp":"1970-01-01T00:00:00.000Z","type":"event_msg","payload":{"type":"task_started","turn_id":"silent-task","started_at":0}}
+{"timestamp":"1970-01-01T00:45:00.000Z","type":"event_msg","payload":{"type":"token_count","info":{"last_token_usage":{"total_tokens":42}},"rate_limits":{"primary":{"used_percent":37.5}}}}

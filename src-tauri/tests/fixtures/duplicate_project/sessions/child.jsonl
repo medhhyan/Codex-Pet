@@ -1,0 +1,2 @@
+{"type":"session_meta","payload":{"session_id":"project-parent","id":"child-thread","parent_thread_id":"project-parent","thread_source":"subagent"}}
+{"timestamp":"1970-01-01T00:00:02Z","type":"event_msg","payload":{"type":"task_started","turn_id":"child-turn","started_at":2}}

@@ -1,0 +1,2 @@
+{"event_type":"waiting_for_input","observed_at_ms":900}
+{"event_type":"execution_started","observed_at_ms":1000,"usage":{"today_tokens":42,"weekly_usage_percent":12.5,"synced_at_ms":1000}}

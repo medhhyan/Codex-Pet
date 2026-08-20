@@ -1,0 +1,10 @@
+.worktrees/
+.superpowers/
+node_modules/
+dist/
+src-tauri/target/
+src/assets/pets/*-source.png
+src-tauri/target-regression-*/
+src-tauri/gen/
+tsconfig.tsbuildinfo
+.tooling/
